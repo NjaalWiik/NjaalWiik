@@ -1,6 +1,6 @@
 ### Hi there, I'm Njål 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm an Entrepreneur, Business Analyst, Developer, and Data Scientist!
 - 🔭 I’m currently working as a full stack developer at [School of Applied Technology][website]!
 - 🕰 Background in Finance, Business Analytics and Machine Learning.
 - 🥅 2020 Goals: Create multiple projects that helps someone.
