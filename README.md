@@ -62,8 +62,8 @@
 
 #### Testing
 <img align="left" alt="Mocha" width="26px" src="https://banner2.cleanpng.com/20180427/ivw/kisspng-mocha-node-js-javascript-software-testing-npm-5ae37d55ae0302.6235689115248581977128.jpg" />
-<img align="left" alt="Chai" width="26px" src="https://avatars2.githubusercontent.com/u/1515293?s=400&v=4" />
-<img align="left" alt="Jest" width="30px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
+<img align="left" alt="Chai" width="30px" src="https://avatars2.githubusercontent.com/u/1515293?s=400&v=4" />
+<img align="left" alt="Jest" width="26px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
 
 
 <br />
