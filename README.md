@@ -1,10 +1,10 @@
 ### Hi there, I'm Njål 👋
 
-## I'm an Entrepreneur, Business Analyst, Developer, and Data Scientist!
-- 🔭 I’m currently working as a full stack developer at [School of Applied Technology][website]!
-- 🕰 Background in Finance, Business Analytics and Machine Learning.
-- 🥅 2020 Goals: Create multiple projects that helps someone.
-- ⚡ Fun fact: I'm active in the startup environment.
+## Innovative and performance-driven Entrepreneur with a passion for technology and business.
+- 🎉 I’m currently working as a full stack developer at [School of Applied Technology][website]!
+- 📊 4+ years of experience in most aspects of business, development, operations, finance, and analytics.
+- 📚 Education: B.A. of Finance and a MSc in Business Analytics.
+- ⚡ Fun fact: I co-founded a profitable tech startup with more than 3.000 customers.
 
 ### Connect with me:
 
