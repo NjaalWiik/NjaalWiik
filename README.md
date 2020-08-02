@@ -6,21 +6,13 @@
 - 📚 Education: B.A. of Finance and a MSc in Business Analytics.
 - ⚡ Fun fact: I co-founded a profitable tech startup with more than 3.000 customers.
 
-### Connect with me:
-
-[<img align="left" alt="salt.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Njål Wiik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Njål Wiik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 #### General
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<br/>
-<br/>
+<br />
+<br />
 
 #### Data Science
 <img align="left" alt="Pandas" width="26px" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png" />
@@ -29,8 +21,8 @@
 <img align="left" alt="TensorFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" alt="Keras" width="24px" src="https://media.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0?e=2159024400&v=beta&t=FecYznzU4CBXukcm30SbhXqy4e5g8GgoYaFT4hfIO5c" />
 
-<br/>
-<br/>
+<br />
+<br />
 
 #### Backend
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -43,8 +35,8 @@
 <img align="left" alt="Handlebars" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" />
 <img align="left" alt="Pug" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
 
-<br/>
-<br/>
+<br />
+<br />
 
 #### Frontend
 
@@ -78,9 +70,17 @@
 <br />
 <br />
 
+### Connect with me:
+
+[<img align="left" alt="salt.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Njål Wiik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Njål Wiik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NjaalWiik&show_icons=true&hide_border=true" />
+<img align="left" alt="Njål Wiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NjaalWiik&show_icons=true&hide_border=true&hide=stars" />
 
 [website]: https://salt.dev/
 [instagram]: https://www.instagram.com/njaal.wiik/
