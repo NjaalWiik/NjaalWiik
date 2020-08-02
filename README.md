@@ -80,7 +80,7 @@
 
 ---
 
-<img align="left" alt="Njål Wiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NjaalWiik&show_icons=true&hide_border=true&hide=stars" />
+<img align="left" alt="Njål Wiik's Github Stats" src="https://github-readme-stats.vercel.app/api?theme=vue&username=NjaalWiik&show_icons=true&hide_border=true&hide=stars" />
 
 [website]: https://salt.dev/
 [instagram]: https://www.instagram.com/njaal.wiik/
