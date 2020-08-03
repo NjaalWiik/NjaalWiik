@@ -3,7 +3,7 @@
 ## Innovative and performance-driven Entrepreneur with a passion for technology and business.
 
 - 🎉 I’m currently working as a full stack developer at [School of Applied Technology (SALT)][website]!
-- 📊 4+ years of experience in most aspects of business, development, operations, finance, and analytics.
+- 📊 4+ years of experience in most aspects of business, development, operations, finance and analytics.
 - 📚 Education: B.A. of Finance, MSc in Business Analytics and a three-month Full Stack Developer Bootcamp from [SALT][website].
 - ⚡ Fun fact: I co-founded a profitable tech startup with more than 3.000 customers.
 
