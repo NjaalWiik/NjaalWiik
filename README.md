@@ -1,13 +1,16 @@
 ### Hi there, I'm Njål 👋
 
 ## Innovative and performance-driven Entrepreneur with a passion for technology and business.
-- 🎉 I’m currently working as a full stack developer at [School of Applied Technology][website]!
+
+- 🎉 I’m currently working as a full stack developer at [School of Applied Technology (SALT)][website]!
 - 📊 4+ years of experience in most aspects of business, development, operations, finance, and analytics.
-- 📚 Education: B.A. of Finance and a MSc in Business Analytics.
+- 📚 Education: B.A. of Finance, MSc in Business Analytics and 3 month Full Stack Developer Bootcamp from SALT[website].
 - ⚡ Fun fact: I co-founded a profitable tech startup with more than 3.000 customers.
 
 ### Languages and Tools:
+
 #### General
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="R" width="30px" src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" />
@@ -16,6 +19,7 @@
 <br />
 
 #### Data Science
+
 <img align="left" alt="Pandas" width="26px" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png" />
 <img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />
 <img align="left" alt="Scikit learn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
@@ -26,6 +30,7 @@
 <br />
 
 #### Backend
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="80px" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" />
 <img align="left" alt="REST-API" width="56px" src="https://www.ardoq.com/hubfs/TP%20Theme/Website/Integrations/restApi.png" />
@@ -54,15 +59,16 @@
 <br />
 
 #### Testing
+
 <img align="left" alt="Mocha" width="26px" src="https://banner2.cleanpng.com/20180427/ivw/kisspng-mocha-node-js-javascript-software-testing-npm-5ae37d55ae0302.6235689115248581977128.jpg" />
 <img align="left" alt="Chai" width="30px" src="https://avatars2.githubusercontent.com/u/1515293?s=400&v=4" />
 <img align="left" alt="Jest" width="26px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
-
 
 <br />
 <br />
 
 #### Tools and technologies
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
