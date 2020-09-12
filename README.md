@@ -40,7 +40,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" />
 <img align="left" alt="Handlebars" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" />
 <img align="left" alt="Pug" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
+<img align="left" alt="firebase" width="20px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
 
 <br />
 <br />
