@@ -6,7 +6,7 @@
 - 📊 4+ years of experience in most aspects of business, development, operations, finance and analytics.
 - 📚 Education: B.A. of Finance, MSc in Business Analytics and a three-month Full Stack Developer Bootcamp from [SALT][website].
 - ⚡ Fun fact: I co-founded a profitable tech startup with more than 8.000 customers. (Alura.io)
-- 🚀 See my online résumé here: https://njaalwiik.github.io/portfolio-njaalwiik/
+- 🚀 See my outdated online résumé here: https://njaalwiik.github.io/portfolio-njaalwiik/
 
 ### Languages and Tools:
 
