@@ -2,7 +2,7 @@
 
 ## Innovative and performance-driven Entrepreneur with a passion for technology and business.
 
-- 🎉 I’m currently working as a full stack developer at [School of Applied Technology (SALT)][website]!
+- 🎉 I’m currently working as a Product Manager for [Marketer][website]!
 - 📊 4+ years of experience in most aspects of business, development, operations, finance and analytics.
 - 📚 Education: B.A. of Finance, MSc in Business Analytics and a three-month Full Stack Developer Bootcamp from [SALT][website].
 - ⚡ Fun fact: I co-founded a profitable tech startup with more than 8.000 customers. (Alura.io)
@@ -97,6 +97,6 @@
 
 <img align="left" alt="Njål Wiik's Github Stats" src="https://github-readme-stats.vercel.app/api?theme=vue&username=NjaalWiik&show_icons=true&hide_border=true&hide=stars" />
 
-[website]: https://salt.dev/
+[website]: https://marketer.tech/
 [instagram]: https://www.instagram.com/njaal.wiik/
 [linkedin]: https://www.linkedin.com/in/njaal-wiik/
